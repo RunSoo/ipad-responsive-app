@@ -18,6 +18,12 @@ a {
   color: #1d1d1d;
 }
 
+img {
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
 /* Btn */
 .btn {
   display: flex;
